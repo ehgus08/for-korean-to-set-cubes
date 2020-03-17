@@ -1,1 +1,1 @@
-# for-korean-to-set-cubes
+# 큐브 맞추기
